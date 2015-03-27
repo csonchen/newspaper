@@ -43,10 +43,13 @@
 ###操作步骤
 * 在`广告`—>`创建广告`页面中,点击`输入网络地址`
     * ![step1](images/zhuaqu-step1.png)
+   
 * 填入安装包的下载地址
     * ![step2](images/zhuaqu-step2.png)
+   
 * 输入完网络地址后，点击抓取
     * ![step3](images/zhuaqu-step3.png)
+   
 * 抓取完后，服务器会弹出一个提示抓取成功的对话框，点击确认即可
     * ![step4](images/zhuaqu-step4.png)
 
