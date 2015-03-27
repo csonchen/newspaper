@@ -52,7 +52,7 @@
 * 抓取完后，服务器会弹出一个提示抓取成功的对话框，点击确认即可
     * ![step4](images/zhuaqu-step4.png)
 
-* 抓取完后，地址栏显示的安装包的URL是点乐的URL
+* 抓取完后，地址栏显示的安装包的URL是点乐的URL。
     * ![step5](images/zhuaqu-step5.png)
 
 ##下周计划任务
